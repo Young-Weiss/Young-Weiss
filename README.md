@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A systems development student from RS/Brazil</h3>
 
-- 🔭 I’m currently working on **looking for an internship **
+- 🔭 I’m currently working on **looking for an internship**
 
 - 🌱 I’m currently learning **Web development**
 
