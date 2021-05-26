@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">A systems development student from RS/Brazil</h3>
+<h3 align="center">A computer science student from RS/Brazil</h3>
 
-- 🔭 I’m currently working on **be hired and learn a lot in the internship**
+- 🔭 I’m currently working on **learn a lot in the internship**
 
 - 🌱 I’m currently learning **Angular / PHP / Laravel**
 
-- 🤝 I’m looking for help with **learn to program 👨🏻‍💻**
+- 🤝 I’m looking for help with **learn to program in Laravel 👨🏻‍💻 **
 
 - 📫 How to reach me **fernandoviniciuswr@gmail.com**
 
