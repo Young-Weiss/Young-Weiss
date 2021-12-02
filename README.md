@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **learn a lot in the internship**
 
-- 🌱 I’m currently learning **Angular / PHP / Laravel**
+- 🌱 I’m currently learning **React**
 
-- 🤝 I’m looking for help with **learn to program in Laravel** 👨🏻‍💻 
+- 🤝 I’m looking for help with **learn to program in React** 👨🏻‍💻 
 
 - 📫 How to reach me **fernandoviniciuswr@gmail.com**
 
