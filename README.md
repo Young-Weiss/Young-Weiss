@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **learn a lot in the internship**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 🤝 I’m looking for help with **learn to program in React** 👨🏻‍💻 
 
