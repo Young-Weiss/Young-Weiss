@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Angular**
 
-- 🤝 I’m looking for help with **learn to program in React** 👨🏻‍💻 
+- 🤝 I’m looking for help with **learn to develop the best programming techniques** 👨🏻‍💻 
 
 - 📫 How to reach me **fernandoviniciuswr@gmail.com**
 
