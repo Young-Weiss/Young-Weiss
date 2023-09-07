@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A computer science student from RS/Brazil</h3>
 
-- 🔭 I’m currently working on **learn a lot in the internship**
-
 - 🌱 I’m currently learning **Angular**
 
 - 🤝 I’m looking for help with **learn to develop the best programming techniques** 👨🏻‍💻 
