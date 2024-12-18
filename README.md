@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **fernandoviniciuswr@gmail.com**
 
-- ⚡ Fun fact **i know how to assemble the magic cube**
+- ⚡ Fun fact **i know how to assemble the Rubik's Cube**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
